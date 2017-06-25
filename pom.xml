@@ -30,7 +30,7 @@
                     <descriptors>
                         <descriptor>src/main/assemblies/plugin.xml</descriptor>
                     </descriptors>
-                    <finalName>es-changes-feed-plugin</finalName>
+                    <finalName>elastic_plugin_demo</finalName>
                 </configuration>
                 <executions>
                     <execution>
@@ -68,5 +68,5 @@
         </dependency>
     </dependencies>
 
-    <artifactId>elastic_demo</artifactId>
+    <artifactId>elastic_plugin_demo</artifactId>
 </project>
