@@ -17,9 +17,9 @@
             <source>src/main/resources/plugin-descriptor.properties</source>
             <outputDirectory>/elasticsearch/</outputDirectory>
         </file>
-        <file>
+       <!--  <file>
             <source>src/main/resources/plugin-security.policy</source>
             <outputDirectory>/elasticsearch/</outputDirectory>
-        </file>
+        </file> -->
     </files>
 </assembly>
